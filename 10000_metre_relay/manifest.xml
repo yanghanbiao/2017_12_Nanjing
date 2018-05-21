@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.1" uuid="10000_metre_relay-1daab3">
+ <names>
+  <name lang="en_US">10000_metre_relay（修改版）</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
